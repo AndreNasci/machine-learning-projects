@@ -3,7 +3,8 @@
 Uma breve descrição do conteúdo de cada arquivo, para facilitar a busca de tópicos específicos.
 
 ## 01 - ML Regression with Dense Neural Networks
-### TF_First_NN_exploring_epochs_and_callbacks.ipynb
+### TF_NN_exploring_epochs_and_callbacks.ipynb
+>Esse notebook trabalha de forma introdutória o efeito das épocas (epochs) no treinamnto de uma rede neural através da criação de uma NN de uma camada e um neurônio com Keras.
 - Regressão linear (método supervisionado)
 - keras.sequential
 - Callbacks (on_epoch_end)
@@ -25,3 +26,7 @@ Uma breve descrição do conteúdo de cada arquivo, para facilitar a busca de t�
 - KerasTuner (finding hyperparameters)
 - Keras model created by a function
 - Define hyperparameters by an argument 
+
+
+> [!WARNING]
+> Alguns desses documentos foram criados e modificados durante cursos diversos de IA ao longo do tempo.
