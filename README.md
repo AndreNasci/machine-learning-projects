@@ -2,14 +2,14 @@
 
 Uma breve descrição do conteúdo de cada arquivo, para facilitar a busca de tópicos específicos.
 
-## Class 6
+## 01 - ML Regression with Dense Neural Networks
 ### TF_First_NN_exploring_epochs_and_callbacks.ipynb
 - Regressão linear (método supervisionado)
 - keras.sequential
 - Callbacks (on_epoch_end)
 - Matplotlib (plot de retas e model loss)
 
-## Class 7
+## 02 - Regression with Dense Neural Networks
 ### TF_Boston_Housing_Regression.ipynb
 - Regressão linear (método supervisionado)
 - keras.sequential
