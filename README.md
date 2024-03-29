@@ -10,7 +10,7 @@ Uma breve descrição do conteúdo de cada arquivo, para facilitar a busca de t�
 - Callbacks (on_epoch_end)
 - Matplotlib (plot de retas e model loss)
 
-## 02 - Regression with Dense Neural Networks
+## 02 - Regression with Neural Networks
 ### TF_Boston_Housing_Regression.ipynb
 - Regressão linear (método supervisionado)
 - keras.sequential
