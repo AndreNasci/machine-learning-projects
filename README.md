@@ -1,4 +1,4 @@
-# TinyML - IESTI01
+# Machine Learning Projects
 
 Uma breve descrição do conteúdo de cada arquivo, para facilitar a busca de tópicos específicos.
 
