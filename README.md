@@ -2,7 +2,7 @@
 
 Uma breve descrição do conteúdo de cada arquivo, para facilitar a busca de tópicos específicos.
 
-## 01 - ML Regression with Neural Networks
+## 01 - Neural Networks Basics
 ### TF_NN_exploring_epochs_and_callbacks.ipynb
 >Esse notebook trabalha de forma introdutória o efeito das épocas (epochs) no treinamento de uma rede neural através da criação de uma NN de uma camada e um neurônio com Keras.
 - Regressão linear (método supervisionado)
