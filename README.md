@@ -1,6 +1,18 @@
 # Machine Learning Projects
 
-Uma breve descrição do conteúdo de cada arquivo, para facilitar a busca de tópicos específicos.
+![Static Badge](https://img.shields.io/badge/Status_Projeto:-Em_andamento_(16/Abr/2024)-orange)
+
+Projetos diversos de machine learning. Esse repositório mostra um pouco da minha jornada explorando e aprendendo sobre diferentes conceitos, modelos e funcionalidades de IA. É também um caderno, onde posso voltar e relembrar tópicos. 
+
+Abaixo, uma breve descrição do conteúdo de cada arquivo, para facilitar a busca de tópicos específicos.
+
+## 00 - EDA and Data Visualization
+### Mall_Customers_Data_Visualization.ipynb
+>O objetivo desse notebook é realizar uma Análise Exploratória dos Dados (AED) com o dataset Mall Customers. Procurei exibir as principais caracterísitcas através de gráficos e métricas dos dados, a fim de possibilitar a busca por insights e correlações, facilitar tomada de decisões, ou mesmo servir de etapa preliminar para um projeto de *machine learning*.
+- Limpeza e análise dos dados.
+- Análises de média, desvio padrão, mínimo e máximo dos atributos.
+- Plot de histogramas, boxplots, gráficos de linha.
+- Matriz de correlação.
 
 ## 01 - Neural Networks Basics
 ### TF_NN_exploring_epochs_and_callbacks.ipynb
